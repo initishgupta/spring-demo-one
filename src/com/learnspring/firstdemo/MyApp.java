@@ -16,6 +16,10 @@ public class MyApp {
 		    int randomNum = rand.nextInt((max - min) + 1) + min;
 		    System.out.println(randomNum);
 		    
+		    System.out.println("FIRST CHANGE");
+		    System.out.println("Second Change");
+		    System.out.println("FIRST CHANGE");
+		    
 		}
 	}
 
